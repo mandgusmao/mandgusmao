@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Front-end`**
 
-Me chamo Amanda Gusmão Mayrink, tenho 27 anos e sou mineira de Belo Horizonte. Quase terminar Direito, me descobri apaixonada por tecnologia e decidi mudar de área! Meu objetivo agora é me tornar desenvolvedora full stack e criar projetos incríveis. Adoro games e explorar novas ferramentas e tecnologias.
+Me chamo Amanda Gusmão Mayrink, tenho 27 anos e sou mineira de Belo Horizonte. Estou me formando em Direito mas me descobri apaixonada por tecnologia e decidi mudar de área! Meu objetivo agora é me tornar desenvolvedora full stack e criar projetos incríveis. Adoro games e explorar novas ferramentas e tecnologias.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/amandagmayrink/">
